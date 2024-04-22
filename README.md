@@ -18,6 +18,6 @@
 - Deepin DE (Snap Version)
 - Useless apt software
 
-
-__*SOME THESE HAVE NOT BEEN ADDED YET INTO DEVELOPMENT, THEY WILL BE ADDED ONCE THE OS IS FULLY OUT*__
+# Wiki
+[Please refer to the wiki for instructions on How it's bloated.](https://github.com/Bikoil/BloatOS/wiki)
 
