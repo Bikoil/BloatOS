@@ -16,7 +16,7 @@
 - AwesomeWM
 - SwayWM
 - Deepin DE (Snap Version)
-- Useless apt apps
+- Useless apt software
 
 
 __*SOME THESE HAVE NOT BEEN ADDED YET INTO DEVELOPMENT, THEY WILL BE ADDED ONCE THE OS IS FULLY OUT*__
