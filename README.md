@@ -14,6 +14,7 @@
 - LXQT
 - LXDE
 - AwesomeWM
+- SwayWM
 - Deepin DE (Snap Version)
 - Useless apt apps
 
