@@ -6,7 +6,6 @@ __If you thought Windows or Ubuntu were the most bloat things you have seen, wel
 # What and why??
 - Windows and Ubuntu may have been a bit bloat lately, so i thought why not *MORE BLOAT?* this is just a silly little project I am working on, so dont be expecting me to maintain it well
 # Elements Expected to be inside the OS
-- Pre-installed Bedrock linux (The more PMs, the more bloat!)
 - Flatpak + Some Flatpak apps
 - Snap apps
 - KDE
