@@ -14,6 +14,7 @@ __If you thought Windows or Ubuntu were the most bloat things you have seen, wel
 - LXQT
 - LXDE
 - AwesomeWM
+- Deepin DE (Snap Version)
 - Useless apt apps
 
 
