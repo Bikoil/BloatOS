@@ -13,6 +13,7 @@ __If you thought Windows or Ubuntu were the most bloat things you have seen, wel
 - XFCE
 - LXQT
 - LXDE
+- AwesomeWM
 - Useless apt apps
 
 
