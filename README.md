@@ -15,4 +15,6 @@ __If you thought Windows or Ubuntu were the most bloat things you have seen, wel
 - LXQT
 - LXDE
 - Useless apt apps
+
+
 __*THESE HAVE NOT BEEN ADDED YET INTO DEVELOPMENT, THEY WILL BE ADDED ONCE THE OS IS FULLY OUT*__
