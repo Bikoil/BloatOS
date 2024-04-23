@@ -20,4 +20,5 @@
 
 # Wiki
 [Please refer to the wiki for instructions on How it's bloated.](https://github.com/Bikoil/BloatOS/wiki)
+You can follow the wiki and use its script of installing BloatOS without having to install the 40 GB qemu image
 
